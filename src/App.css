@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  height: 75px;
+  padding: 25px;
+  color:gray;
+  font-size: 22px;
+  text-align: center;
+}
+
+span {
+  margin: 10px;
+}
+
